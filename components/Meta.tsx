@@ -23,11 +23,11 @@ const Meta = ({ title, keywords, description }: MetaProps) => {
 };
 
 Meta.defaultProps = {
-  title: 'Money Match',
-  keywords: 'Online video game bets, one versus one betting',
+  title: 'NEXTJS | STARTER',
+  keywords: 'Next JS, Starter, Starter Kit, Starter Template',
 
   description:
-    'The best place to find the latest news and information about the video game industry.',
+    'Next JS Starter Kit is a starter template for Next JS projects. Fonts are imported from Google Fonts. Tailwind CSS is used for styling. Favicon is imported from Favicon.io. Meta tags are imported from Next JS Head.',
 };
 
 export default Meta;
